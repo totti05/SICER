@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.12.1",
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "datatables.net": "^1.10.20",
         "datatables.net-dt": "^1.10.20",
         "icheck-bootstrap": "^3.0.1",
